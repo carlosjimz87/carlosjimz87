@@ -9,8 +9,7 @@ I'm an Automation Engineer and Fullstack Developer. <br/> Lover of disruptive te
 <br />
 
 ## 💻 My Tech Stack:
-<br />
-<br />
+
 
 [<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />]()
 [<img align="left" alt="Kotlin"  src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />]()
@@ -18,13 +17,13 @@ I'm an Automation Engineer and Fullstack Developer. <br/> Lover of disruptive te
 [<img align="left" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />]()
 [<img align="left" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />]()
   
-<br />
+<br /><br />
   
   
 ## 🏆 GitHub Stats
 
 <img alt="Carlosjimz87 GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=carlosjimz87&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
- 
+ <br />
 
 ## 🌐 Socials:
 
