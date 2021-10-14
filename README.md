@@ -4,7 +4,7 @@
 [![Views](https://komarev.com/ghpvc/?username=carlosjimz87&color=3279a8&label=Views&logo=github&logoColor=3279a8)](https://github.com/carlosjimz87)
 [![Stars](https://img.shields.io/github/stars/carlosjimz87?color=3279a8&label=Stars&logo=github&logoColor=3279a8)](https://github.com/carlosjimz87)
 
-I'm an Automation Engineer and Fullstack Developer. <br/> Lover of disruptive technologies, quality products, clean code and other fun ways to spend the time.
+I'm an Automation Engineer and Fullstack Developer. <br/> Like to play with disruptive technologies, clean code and cool apps.
 
 <br />
 
