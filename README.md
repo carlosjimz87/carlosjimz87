@@ -4,7 +4,7 @@
 [![Views](https://komarev.com/ghpvc/?username=carlosjimz87&color=3279a8&label=Views&logo=github&logoColor=3279a8)](https://github.com/carlosjimz87)
 [![Stars](https://img.shields.io/github/stars/carlosjimz87?color=3279a8&label=Stars&logo=github&logoColor=3279a8)](https://github.com/carlosjimz87)
 
-I'm an Automation Engineer and Android Developer who likes to play with disruptive technologies and create cool apps.
+I'm an Automation Engineer and Android Developer who loves disruptive technology and cool apps.
 
 ## 💻 My Tech Stack:
 
