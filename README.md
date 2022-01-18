@@ -20,7 +20,7 @@ I'm an Automation Engineer and Android Developer who likes to play with disrupti
   
 ## 🏆 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjimz87&count_private=true)](https://github.com/carlosjimz87/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjimz87&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/carlosjimz87/github-readme-stats)
 
 ## 🌐 Socials:
 
