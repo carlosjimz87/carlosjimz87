@@ -20,7 +20,7 @@ I'm an Automation Engineer and Android Developer who likes to play with disrupti
   
 ## 🏆 GitHub Stats
 
-<img alt="Carlosjimz87 GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=carlosjimz87&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjimz87)](https://github.com/carlosjimz87/github-readme-stats)
 
 ## 🌐 Socials:
 
